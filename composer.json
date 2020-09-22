@@ -6,5 +6,10 @@
             "email": "183851258@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "iiiuWechatTools\\": "src/"
+        }
+    }
 }
