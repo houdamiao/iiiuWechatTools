@@ -1,0 +1,10 @@
+{
+    "name": "root/iiiu-wechat-tools",
+    "authors": [
+        {
+            "name": "DaMiao Hou",
+            "email": "183851258@qq.com"
+        }
+    ],
+    "require": {}
+}
