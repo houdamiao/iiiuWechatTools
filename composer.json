@@ -1,10 +1,14 @@
 {
     "name": "iiiu/iiiu-wechat-tools",
+    "description": "test",
+    "require": {
+        "iiiu/iiiu-wechat-tools": "1.0"
+    },
+    "license": "1",
     "authors": [
         {
-            "name": "DaMiao Hou",
+            "name": "Houdamiao",
             "email": "183851258@qq.com"
         }
-    ],
-    "require": {}
+    ]
 }
