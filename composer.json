@@ -2,7 +2,7 @@
     "name": "iiiu/iiiu-wechat-tools",
     "description": "test",
     "require": {
-        "iiiu/iiiu-wechat-tools": "1.0"
+        "php": ">=5.6.0"
     },
     "license": "1",
     "authors": [
@@ -10,15 +10,10 @@
             "name": "Houdamiao",
             "email": "183851258@qq.com"
         }
-<<<<<<< HEAD
     ],
-    "require": {},
     "autoload": {
         "psr-4": {
             "iiiuWechatTools\\": "src/"
         }
     }
-=======
-    ]
->>>>>>> dev
 }
