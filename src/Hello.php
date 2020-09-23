@@ -12,7 +12,10 @@ namespace iiiuWechatTools;
 class Hello
 {
     
-    public function __construct()
+    public function __construct($config)
     {
+        var_dump($config);
     }
+    
 }
+
